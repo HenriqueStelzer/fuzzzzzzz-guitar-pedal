@@ -52,3 +52,13 @@ The Fuzzzzzzz guitar pedal is designed to give a fuzzy, warm, saturated fuzz ton
 | 29    | R19              | 1       | 4K7       | Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal      | Resistor 1/2W                                                    |
 | 30    | RV1-RV3          | 3       | 100KA     | Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | Potentiometer                                                    |
 | 31    | U1               | 1       | JRC4558   | Package_DIP:DIP-8_W7.62mm_Socket                                    | Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8 |
+
+# Off-Board Bill of Materials (BOM)
+| **#** | **Reference** | **Qty** | **Value**                  | **Description**                                          |
+|-------|---------------|---------|----------------------------|----------------------------------------------------------|
+| 1     | CASE          | 1       | Hammond 1590BB             | Diecast aluminum enclosure 119x94x34mm                   |
+| 2     | J1            | 1       | 6.35mm Jack – Input        | Mono 1/4" TS input jack                                  |
+| 3     | J2            | 1       | 6.35mm Jack – Output       | Mono 1/4" TS output jack                                 |
+| 4     | J3            | 1       | DC Power Jack 2.1mm        | Barrel connector 2.1mm center-neg (3 poles)              |
+| 5     | SW1           | 1       | 3PDT Footswitch            | Latching 3PDT stomp switch for true bypass               |
+| 6     | BAT1          | 1       | 9V Battery Snap Adapter    | 9V battery clip with leads                               |
