@@ -16,7 +16,7 @@ The Fuzzzzzzz guitar pedal is designed to give a fuzzy, warm, saturated fuzz ton
 ### Circuit Overview
   The circuit is composed of a gain controlling input stage with a controllable inverting amplifier that buffers and boosts the signal with a gain ranging from 6dB to 21.6dB. The gain stage has a topology inspired by the classic fuzz face guitar pedal but modded to have a lower noise floor, use common components and a slightly different flavor of clipping. The output stage consists of a recovery/buffering stage with tone control for boosting high-mid frequencies and a final output level control.
 
-![WhatsApp Image 2025-12-27 at 00.16.44](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAzNjksInB1ciI6ImJsb2JfaWQifX0=--3a988a2277f9d4ed29ce4e22f9c3ae2de60cf241/WhatsApp%20Image%202025-12-27%20at%2000.16.44.jpeg)
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0OTU4LCJwdXIiOiJibG9iX2lkIn19--6b33e6b7b8b50b472ff23687db7d85e5a9e8d6ea/image.png)
 
 ### Bill of Materials (BOM)
 | **#** | **Reference**     | **Qty** | **Value** | **Footprint**                                                       | **Description**                                                  |
