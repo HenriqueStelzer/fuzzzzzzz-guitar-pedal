@@ -62,5 +62,5 @@ The Fuzzzzzzz guitar pedal is designed to give a fuzzy, warm, saturated fuzz ton
 | 4     | J3            | 1       | DC Power Jack 2.1mm        | Barrel connector 2.1mm center-neg (3 poles)              |
 | 5     | SW1           | 1       | 3PDT Footswitch            | Latching 3PDT stomp switch for true bypass               |
 | 6     | BAT1          | 1       | 9V Battery Snap Adapter    | 9V battery clip with leads                               |
-| 7     | HW1           | 3       | M3×30mm Screw              | M3 machine screw, 30mm length                            |
-| 8     | HW2           | 9       | M3 Nut                     | M3 hex nut                                               |
+| 7     | HW1           | 4       | M3×30mm Screw              | M3 machine screw, 30mm length                            |
+| 8     | HW2           | 12      | M3 Nut                     | M3 hex nut                                               |
