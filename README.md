@@ -1,6 +1,6 @@
 # Fuzzzzzzz - A guitar pedal
 ### My take on the classic fuzz face circuit
-The Fuzzzzzzz is a fuzz face-inspired guitar pedal, redesigned with an inverting gain stage, asymmetric hard clipping, and a 720Hz high-pass tone control to sit between the reactivity of a classic fuzz and the control of a modern overdrive. Works great on bass too.
+The Fuzzzzzzz is a fuzz face-inspired guitar pedal, redesigned with an inverting gain stage, asymmetric hard clipping, and a 720Hz high-pass tone control to sit between the reactivity of a classic fuzz and the control of a modern overdrive. This is a fully analog circuit with no microcontroller or firmware — there is no code involved. It works great on bass too.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIyMjQsInB1ciI6ImJsb2JfaWQifX0=--28d04e754bfd8452231a5bed593a2aa54a2583ec/image.png)
 
